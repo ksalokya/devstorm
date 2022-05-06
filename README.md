@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/ksalokya/updev">
-        <img src="" alt="Devicon Logo" height="140" />
+        <img src="https://github.com/ksalokya/updev/blob/main/misc/logo.png" alt="Devicon Logo" height="250" />
     </a>
     <h5 align="center">
          Focus on being productive instead of busy.
