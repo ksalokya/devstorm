@@ -1,0 +1,24 @@
+{
+  "name": "updev",
+  "version": "1.0.0",
+  "description": "Utility functions to increase your productivity.",
+  "main": "updev.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksalokya/updev.git"
+  },
+  "keywords": [
+    "updev",
+    "utility",
+    "pascal_case"
+  ],
+  "author": "ksalokya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ksalokya/updev/issues"
+  },
+  "homepage": "https://github.com/ksalokya/updev#readme"
+}
