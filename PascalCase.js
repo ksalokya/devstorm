@@ -1,5 +1,13 @@
-function pascal(str) {
+/**
+ * Converts string to Pascal Case.
+ *
+ * @since 1.0.0
+ * @category String
+ * @param {string}
+ * @returns {string}
+ */
 
+function pascal(str) {
     str = str.toLowerCase()
 
     return str.split(' ')

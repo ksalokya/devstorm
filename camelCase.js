@@ -1,6 +1,15 @@
-const pascal =  require("updev/PascalCase")
+/**
+ * Converts string to Camel Case.
+ *
+ * @since 1.0.0
+ * @category String
+ * @param {string}
+ * @returns {string}
+ */
 
-function camel(str){
+const pascal = require("updev/PascalCase")
+
+function camel(str) {
     str = pascal(str)
     return str[0].toLowerCase() + str.slice(1);
 }
