@@ -1,17 +1,17 @@
 {
-  "name": "updev",
+  "name": "devstorm",
   "version": "1.0.0",
   "description": "Utility functions to increase your productivity.",
-  "main": "updev.js",
+  "main": "devstorm.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ksalokya/updev.git"
+    "url": "git+https://github.com/ksalokya/devstorm.git"
   },
   "keywords": [
-    "updev",
+    "devstorm",
     "utility",
     "pascal case",
     "camel case",
@@ -22,7 +22,7 @@
   "author": "ksalokya",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ksalokya/updev/issues"
+    "url": "https://github.com/ksalokya/devstorm/issues"
   },
-  "homepage": "https://github.com/ksalokya/updev#readme"
+  "homepage": "https://github.com/ksalokya/devstorm#readme"
 }

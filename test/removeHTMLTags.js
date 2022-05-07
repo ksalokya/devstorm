@@ -1,4 +1,4 @@
-const removeHTMLTags = require("updev/removeHTMLTags")
+const removeHTMLTags = require("devstorm/removeHTMLTags")
 
 // Test Case - 1
 let tag1 = "<h1>Hello World!</h1>"

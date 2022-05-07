@@ -1,4 +1,4 @@
-const triggerFn = require("updev/triggerFnPerInterval")
+const triggerFn = require("devstorm/triggerFnPerInterval")
 
 let t = 1
 var x;

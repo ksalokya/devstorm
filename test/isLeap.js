@@ -1,4 +1,4 @@
-const isLeap = require("updev/isLeap")
+const isLeap = require("devstorm/isLeap")
 
 // Test Case - 1
 if (isLeap(2020)) {

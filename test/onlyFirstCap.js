@@ -1,4 +1,4 @@
-const onlyFirstCap = require("updev/onlyFirstCap")
+const onlyFirstCap = require("devstorm/onlyFirstCap")
 
 // Test Case - 1
 if (onlyFirstCap("abcd efgh") === "Abcd efgh") {

@@ -1,4 +1,4 @@
-const snake_case = require("updev/snake_case")
+const snake_case = require("devstorm/snake_case")
 
 // Test Case - 1
 if (snake_case("abcd efgh") === "abcd_efgh") {

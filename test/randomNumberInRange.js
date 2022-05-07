@@ -1,4 +1,4 @@
-const randomNum = require("updev/randomNumberInRange")
+const randomNum = require("devstorm/randomNumberInRange")
 
 // Test Case - 1
 // Range => 1 - 100

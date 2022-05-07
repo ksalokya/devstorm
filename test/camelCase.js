@@ -1,4 +1,4 @@
-const camelCase = require("updev/camelCase")
+const camelCase = require("devstorm/camelCase")
 
 // Test Case - 1
 if (camelCase("abcd efgh") === "abcdEfgh") {

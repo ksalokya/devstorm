@@ -1,4 +1,4 @@
-const PascalCase = require("updev/PascalCase")
+const PascalCase = require("devstorm/PascalCase")
 
 // Test Case - 1
 if (PascalCase("abcd efgh") === "AbcdEfgh") {

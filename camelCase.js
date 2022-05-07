@@ -7,7 +7,7 @@
  * @returns {string}
  */
 
-const pascal = require("updev/PascalCase")
+const pascal = require("./PascalCase")
 
 function camel(str) {
     str = pascal(str)
