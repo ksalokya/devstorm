@@ -1,5 +1,5 @@
 /**
- * Used to delay any function call by some time which is passed as parameter.
+ * Used to delay any function call by some time t secs.
  *
  * @since 1.0.0
  * @category Api
@@ -8,7 +8,7 @@
  */
 
 function delay(callback, time) {
-    return setTimeout(callback, time || 0);
+    return setTimeout(callback, time);
 }
 
 module.exports = delay

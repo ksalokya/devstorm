@@ -13,7 +13,11 @@
   "keywords": [
     "updev",
     "utility",
-    "pascal_case"
+    "pascal case",
+    "camel case",
+    "snaka case",
+    "debounce",
+    "throttle"
   ],
   "author": "ksalokya",
   "license": "MIT",
