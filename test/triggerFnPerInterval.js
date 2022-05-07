@@ -1,4 +1,4 @@
-const triggerFn = require("updev/triggerFnPerSecond")
+const triggerFn = require("updev/triggerFnPerInterval")
 
 let t = 1
 var x;
@@ -11,4 +11,4 @@ function myFunc(){
         clearTimeout(x)
 }
 
-x = triggerFn(myFunc)
+x = triggerFn(myFunc,1500)
