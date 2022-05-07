@@ -1,6 +1,6 @@
 <div align="center">
-    <a href="https://github.com/ksalokya/updev">
-        <img src="https://github.com/ksalokya/updev/blob/main/misc/logo.png" alt="Devicon Logo" height="250" />
+    <a href="https://github.com/ksalokya/devstorm">
+        <img src="https://github.com/ksalokya/devstorm/blob/main/misc/logo.png" alt="Devicon Logo" height="250" />
     </a>
     <h5 align="center">
          Focus on being productive instead of busy.
@@ -8,23 +8,23 @@
 </div>
 
 <p align="center">
-    <a href="https://github.com/ksalokya/updev/releases">
-        <img alt="GitHub release (latest by semver)" src="https://img.shields.io/github/v/release/ksalokya/updev?style=social&logo=appveyor">
+    <a href="https://github.com/ksalokya/devstorm/releases">
+        <img alt="GitHub release (latest by semver)" src="https://img.shields.io/github/v/release/ksalokya/devstorm?style=social&logo=appveyor">
     </a>
     <a href="/LICENSE">
-        <img alt="GitHub" src="https://img.shields.io/github/license/ksalokya/updev?style=social&logo=appveyor">
+        <img alt="GitHub" src="https://img.shields.io/github/license/ksalokya/devstorm?style=social&logo=appveyor">
     </a>
-    <a href="https://github.com/ksalokya/updev/graphs/contributors">
-        <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/ksalokya/updev?style=social&logo=appveyor">
+    <a href="https://github.com/ksalokya/devstorm/graphs/contributors">
+        <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/ksalokya/devstorm?style=social&logo=appveyor">
     </a>
-    <a href="https://github.com/ksalokya/updev/actions">
-        <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/ksalokya/updev/main?style=social&logo=appveyor">
+    <a href="https://github.com/ksalokya/devstorm/actions">
+        <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/ksalokya/devstorm/main?style=social&logo=appveyor">
     </a>
-    <a href="https://github.com/ksalokya/updev/issues?q=is%3Aopen+is%3Aissue+label%3Arequest%3Aicon">
-        <img alt="GitHub issues by-label" src="https://img.shields.io/github/issues/ksalokya/updev/request:icon?style=social&logo=appveyor">
+    <a href="https://github.com/ksalokya/devstorm/issues?q=is%3Aopen+is%3Aissue+label%3Arequest%3Aicon">
+        <img alt="GitHub issues by-label" src="https://img.shields.io/github/issues/ksalokya/devstorm/request:icon?style=social&logo=appveyor">
     </a>
-    <a href="https://github.com/ksalokya/updev/stargazers">
-        <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ksalokya/updev?style=social&logo=appveyor">
+    <a href="https://github.com/ksalokya/devstorm/stargazers">
+        <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ksalokya/devstorm?style=social&logo=appveyor">
     </a>
 </p>
 
@@ -38,7 +38,7 @@
 ## Example
 ```js
 // import module
-import debounce from 'updev/debounce';
+import debounce from 'devstorm/debounce';
 
 // debounce function
 debounce(()=>{
@@ -52,6 +52,6 @@ debounce(()=>{
 ```
 
 ## Docs
-Visit here for documentation. [updev-demo](https://github.com/ksalokya/updev_demo)
+Visit here for documentation. [devstorm-demo](https://github.com/ksalokya/devstorm_demo)
 
 #### Leave a star behind if this repo helped you in any way. 😄
