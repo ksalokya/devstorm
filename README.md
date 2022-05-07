@@ -27,3 +27,31 @@
         <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ksalokya/updev?style=social&logo=appveyor">
     </a>
 </p>
+
+<hr>
+
+## Installation
+```js
+
+```
+
+## Example
+```js
+// import module
+import debounce from 'updev/debounce';
+
+// debounce function
+debounce(()=>{
+  // callback
+},time);
+
+Ex - 
+debounce(()=>{
+  // callback
+},1000);
+```
+
+## Docs
+Visit here for documentation. [updev-demo](https://github.com/ksalokya/updev_demo)
+
+#### Leave a star behind if this repo helped you in any way. 😄
